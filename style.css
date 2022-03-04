@@ -1,0 +1,32 @@
+body{
+    padding-top: 3rem;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-top: 2rem;
+
+}
+
+.conteudo__imagem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteudo__botao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.botao{
+    width: 100px;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    
+}
