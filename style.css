@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+header{
+    color: antiquewhite;
+}
+
 body{
     padding-top: 3rem;
     background-color: rgb(20, 20, 20);

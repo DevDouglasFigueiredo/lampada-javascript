@@ -10,6 +10,7 @@ function isLampBroken (){
 function lampOn(){
     if( !isLampBroken ()){
     lamp.src = './img/ligad.png';
+    
     }
     
 }
