@@ -1,0 +1,1 @@
+Lampada JavaScript, consiste em dois botões de liga e desliga, linkado comm uma troca de cor do background, e quando dar um duplo click na lampada, ela estoura.
