@@ -4,13 +4,13 @@
     box-sizing: border-box;
 }
 
-header{
-    color: rgb(68, 14, 14);
+#title{
+    color: #FFF
 }
 
 body{
     padding-top: 3rem;
-    background-color: rgb(20, 20, 20);
+    background-color:#0e0e0d
 }
 
 header{
